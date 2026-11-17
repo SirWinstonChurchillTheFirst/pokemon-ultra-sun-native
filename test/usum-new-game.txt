@@ -1,0 +1,40 @@
+# Ultra Sun / Ultra Moon new game: German, Kukui, photo, name SVEN, then A on
+wait 400
+press down
+press down
+press down
+press a
+wait 200
+press a
+wait 600
+spam a 67 45
+wait 300
+touch 63 145
+touch 120 180
+touch 80 109
+touch 159 180
+wait 30
+touch 260 109
+wait 120
+spam a 215 45
+wait 200
+stick -1 0 60
+wait 30
+stick 0 -1 60
+wait 30
+stick 1 0 40
+wait 60
+press x
+wait 150
+press y
+wait 150
+press a
+wait 150
+press a
+wait 400
+press a
+wait 150
+press b
+wait 60
+press b
+wait 120
